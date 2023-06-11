@@ -1,0 +1,3 @@
+psutil==5.9.5
+speedtest_cli==2.1.3
+streamlit==1.21.0
